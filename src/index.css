@@ -204,6 +204,7 @@ section{
 
 .header_container-bg img{
   opacity: 0.5;
+  height: 100%;
 }
 
 .header_content{
